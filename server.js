@@ -225,4 +225,3 @@ function addRole() {
         });
     });
   }
-startApp();
